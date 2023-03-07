@@ -1,0 +1,20 @@
+[
+  {
+    "type": "Heart Rate",
+    "measure": "100",
+    "unit": "bpm",
+    "time": "min"
+  },
+  {
+    "type": "Respiration Rate",
+    "measure": "20",
+    "unit": "times",
+    "time": "min"
+  },
+  {
+    "type": "Body Temperature",
+    "measure": "37",
+    "unit": "℃",
+    "time": "min"
+  }
+]

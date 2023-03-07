@@ -1,0 +1,17 @@
+.detail {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.part {
+  margin-top: 20px;
+  text-align: center;
+  height: 100vh;
+}
+.chart {
+  align-items: center;
+}
